@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+// added a comment
+
 public class Main implements Runnable, ActionListener{
 
   // Class Variables  
